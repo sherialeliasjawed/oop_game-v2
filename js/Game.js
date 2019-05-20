@@ -100,4 +100,4 @@ class Game {
 }
 
 // Creating a game.
-const game = new Game();
+const newGame = new Game();
