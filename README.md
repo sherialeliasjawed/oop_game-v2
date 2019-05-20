@@ -1,4 +1,4 @@
-# oop_game-v2
+# Phrase Hunter
 Hangman type game.
 
 Clone the repository and open index.html to begin playing.
